@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+Sitemap:https://project-5-ecommerce-16447e1f7998.herokuapp.com/sitemap.xml
+
