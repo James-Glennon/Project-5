@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-n2j+sk1o13n7r9o8)6w^ri44cb+i(q^eeym_!5o29m%u0t+q!1
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-james-glennon-project-5-oiye3lxzm4.us2.codeanyapp.com',
-                 'ecommerce.heroku.com',]
+                 'project-5-ecommerce.heroku.com',]
 
 
 # Application definition
