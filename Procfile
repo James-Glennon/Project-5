@@ -1,1 +1,1 @@
-web: gunicorn ecommerce/ecommerce.wsgi
+web: gunicorn ecommerce/ecommerce/__pycache__.wsgi
